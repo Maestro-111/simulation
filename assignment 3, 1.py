@@ -1,10 +1,4 @@
-# Base for simple simulation of virus transmission between pedestrians on a sidewalk.
-# Written by Reid Kerr for use in an assignment in BDA450.
-# Please note that this code is not written to be efficient/elegant/etc.!  It is written
-# to be brief/simple/transparent, to a reasonable degree.
-# There may very well be bugs present!  Moreover, there is very little validation of inputs
-# to function calls, etc.  It is generally up to the developer who uses this to build their simulation
-# to ensure that their valid state is maintained.
+
 
 import math
 
