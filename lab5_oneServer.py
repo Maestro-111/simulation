@@ -1,4 +1,3 @@
-#Based on scenario from the Law text, and based on code from the SimPy documentation
 
 import simpy
 import numpy as np
